@@ -27,6 +27,8 @@ Supported runtime templates:
 - `org-zip-node`
 - `org-zip-python`
 - `sidecar-python`
+- `sidecar-java`
+- `sidecar-dotnet`
 
 Example:
 
