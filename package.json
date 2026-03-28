@@ -1,0 +1,35 @@
+{
+  "name": "create-valtren-extension",
+  "version": "0.1.0",
+  "description": "Shorthand CLI wrapper for scaffolding Valtren AI extensions.",
+  "type": "module",
+  "bin": {
+    "create-valtren-extension": "./bin/create-valtren-extension.mjs"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "smoke": "node ./bin/create-valtren-extension.mjs --help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valtren-ai/create-valtren-extension.git"
+  },
+  "homepage": "https://github.com/valtren-ai/create-valtren-extension#readme",
+  "bugs": {
+    "url": "https://github.com/valtren-ai/create-valtren-extension/issues"
+  },
+  "keywords": [
+    "valtren",
+    "extension",
+    "scaffold",
+    "cli"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
