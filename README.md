@@ -40,3 +40,13 @@ npx create-valtren-extension my-extension --runtime org-zip-python --dir ./exten
 
 - `valtren-ai/extension-sdk`
 - `valtren-ai/extension-examples`
+
+## Support
+
+- Report issues: [GitHub Issues](https://github.com/valtren-ai/create-valtren-extension/issues)
+- Request templates or CLI improvements: [GitHub Issues](https://github.com/valtren-ai/create-valtren-extension/issues)
+
+## Versioning
+
+- This package follows semantic versioning.
+- See [CHANGELOG.md](./CHANGELOG.md) for release notes and upgrade guidance.
